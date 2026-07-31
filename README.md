@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=_₊˚⊹♡_&color=77E099" alt="Profile Views"> <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=_₊˚⊹♡_&color=A6E351" alt="Profile Views"> <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56">
 </p>
 
 <p align="center">
