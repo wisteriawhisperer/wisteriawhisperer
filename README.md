@@ -10,8 +10,6 @@
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/N.png" alt="N">
 </p>
 
-[![Custom Link](https://img.shields.io/badge/My_Website-FF5733?style=for-the-badge)](https://example.com)
-
 $\textcolor{#C5E1A5}{\textsf{"M}}\textcolor{#BDDC9C}{\textsf{y}}\textcolor{#B5D793}{\textsf{ nam}}\textcolor{#ADD28A}{\textsf{e }}\textcolor{#A5CD81}{\textsf{i}}\textcolor{#9DC878}{\textsf{s }}\textcolor{#95C36F}{\textsf{M}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{s}}\textcolor{#7DB454}{\textsf{u}}\textcolor{#75AF4B}{\textsf{u}}\textcolor{#6DAA42}{\textsf{..."}}$
 
 <p align="right">
