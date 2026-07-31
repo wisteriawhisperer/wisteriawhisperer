@@ -12,10 +12,6 @@
 
 $\textcolor{#C5E1A5}{\textsf{"j}}\textcolor{#BDDC9C}{\textsf{u}}\textcolor{#B5D793}{\textsf{s}}\textcolor{#ADD28A}{\textsf{t }}\textcolor{#A5CD81}{\textsf{a }}\textcolor{#9DC878}{\textsf{d}}\textcolor{#95C36F}{\textsf{r}}\textcolor{#8DBE66}{\textsf{e}}\textcolor{#85B95D}{\textsf{a}}\textcolor{#7DB454}{\textsf{m}}\textcolor{#75AF4B}{\textsf{e}}\textcolor{#6DAA42}{\textsf{r..."}}$
 
-$\color{rgb(246, 170, 221)}{\textsf{"Bus}}\color{rgb(246, 147, 211)}{\textsf{hi}}\color{rgb(246, 142, 209)}{\textsf{ag}}\color{rgb(246, 142, 209)}{\textsf{én..."}}$
-
-$\color{rgb(163, 121, 236)}{\textsf{*forever }}\color{rgb(203, 143, 245)}{\textsf{yours my}}\color{rgb(190, 127, 230)}{\textsf{petite }}\color{rgb(210, 121, 215)}{\textsf{artiste"}}$
-
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
 </p>
