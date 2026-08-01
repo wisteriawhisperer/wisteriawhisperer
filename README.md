@@ -19,6 +19,7 @@
 
 $\textcolor{#A8E6CF}{\textsf{ ۫ ׅ η}}\textcolor{#A1E2C8}{\textsf{ι}}\textcolor{#9AE0C1}{\textsf{к}}\textcolor{#92DCBB}{\textsf{σ}}\textcolor{#8BD8B4}{\textsf{я}}\textcolor{#84D4AD}{\textsf{υ}}\textcolor{#7CD0A7}{\textsf{υ}}\textcolor{#75CCA0}{\textsf{ σ}}\textcolor{#6EC89A}{\textsf{я }}\textcolor{#67C493}{\textsf{м}}\textcolor{#60C08C}{\textsf{ι}}\textcolor{#58BC86}{\textsf{ѕ}}\textcolor{#51B87F}{\textsf{υ}}\textcolor{#4AB479}{\textsf{υ}}\textcolor{#43B072}{\textsf{.}}\textcolor{#3CAC6C}{\textsf{ ₊˚.}}$
 
+<img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/87388b692990593cd3b6e6ee6c5cd228f7c56b32/aromantic_flag.gif" alt="aromantic">
     
 </p>
   </details>
