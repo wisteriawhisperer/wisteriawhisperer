@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  $\textcolor{#C5E1A5}{\textsf{‿̩͙⊱༒︎༻} <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=‎₊˚🍀⊹‎_&color=9CE564" alt="Profile Views"> <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56"> ༺༒︎⊰‿̩͙
+  $${\color{#C5E1A5}‿̩͙⊱༒︎༻}$$ <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=‎₊˚🍀⊹‎_&color=9CE564" alt="Profile Views"> <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56"> ༺༒︎⊰‿̩͙
 </p>
 
 <p align="center">
