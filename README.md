@@ -17,7 +17,8 @@
 
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/1edf5ac90e65e81361f05b568fdf525b375b4ade/pixel_N.gif" alt="N">
 
-  $\textcolor{#A8E6CF}{\textsf{"j}}\textcolor{#A1E2C8}{\textsf{u}}\textcolor{#9AE0C1}{\textsf{s}}\textcolor{#92DCBB}{\textsf{t }}\textcolor{#8BD8B4}{\textsf{a }}\textcolor{#84D4AD}{\textsf{d}}\textcolor{#7CD0A7}{\textsf{r}}\textcolor{#75CCA0}{\textsf{e}}\textcolor{#6EC89A}{\textsf{a}}\textcolor{#67C493}{\textsf{m}}\textcolor{#60C08C}{\textsf{e}}\textcolor{#58BC86}{\textsf{r..."}}
+$\textcolor{#A8E6CF}{\textsf{"j}}\textcolor{#A1E2C8}{\textsf{u}}\textcolor{#9AE0C1}{\textsf{s}}\textcolor{#92DCBB}{\textsf{t }}\textcolor{#8BD8B4}{\textsf{a }}\textcolor{#84D4AD}{\textsf{d}}\textcolor{#7CD0A7}{\textsf{r}}\textcolor{#75CCA0}{\textsf{e}}\textcolor{#6EC89A}{\textsf{a}}\textcolor{#67C493}{\textsf{m}}\textcolor{#60C08C}{\textsf{e}}\textcolor{#58BC86}{\textsf{r..."}}
+
 </p>
   </details>
 </div>
