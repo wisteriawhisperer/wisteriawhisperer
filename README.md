@@ -11,7 +11,7 @@
 </p>
 
 <details>
-  <summary>$\textcolor{#C5E1A5}{\textsf{𝐦}}\textcolor{#BDDC9C}{\textsf{o}}\textcolor{#B5D793}{\textsf{r}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{ a}}\textcolor{#9DC878}{\textsf{b}}\textcolor{#95C36F}{\textsf{o}}\textcolor{#8DBE66}{\textsf{u}}\textcolor{#85B95D}{\textsf{t}}\textcolor{#7DB454}{\textsf{ m}}\textcolor{#75AF4B}{\textsf{e}}\textcolor{#6DAA42}{\textsf{...}}$</summary>
+  <summary>$\textcolor{#C5E1A5}{\textsf{𝐦}}\textcolor{#BDDC9C}{\textsf{𝐨}}\textcolor{#B5D793}{\textsf{𝐫}}\textcolor{#ADD28A}{\textsf{𝐞}}\textcolor{#A5CD81}{\textsf{ 𝐚}}\textcolor{#9DC878}{\textsf{𝐛}}\textcolor{#95C36F}{\textsf{𝐨}}\textcolor{#8DBE66}{\textsf{𝐮}}\textcolor{#85B95D}{\textsf{𝐭}}\textcolor{#7DB454}{\textsf{ 𝐦}}\textcolor{#75AF4B}{\textsf{𝐞}}\textcolor{#6DAA42}{\textsf{...}}$</summary>
 
 <p align="right">
 $\textcolor{#98FB98}{\textsf{"w}}\textcolor{#8DEE8D}{\textsf{e}}\textcolor{#82E182}{\textsf{l}}\textcolor{#77D477}{\textsf{c}}\textcolor{#6CC76C}{\textsf{o}}\textcolor{#61BA61}{\textsf{m}}\textcolor{#56AD56}{\textsf{e }}\textcolor{#4BA04B}{\textsf{t}}\textcolor{#409340}{\textsf{o }}\textcolor{#358635}{\textsf{m}}\textcolor{#2A792A}{\textsf{y }}\textcolor{#1F6C1F}{\textsf{w}}\textcolor{#145F14}{\textsf{o}}\textcolor{#095209}{\textsf{r}}\textcolor{#004500}{\textsf{l}}\textcolor{#003800}{\textsf{d..."}}$
