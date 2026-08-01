@@ -17,16 +17,8 @@
 
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/1edf5ac90e65e81361f05b568fdf525b375b4ade/pixel_N.gif" alt="N">
 
-$\textcolor{#A8E6CF}{\textsf{⊱  ۫ ׅ ✧ η}}\textcolor{#A1E2C8}{\textsf{ι}}\textcolor{#9AE0C1}{\textsf{к}}\textcolor{#92DCBB}{\textsf{σ}}\textcolor{#8BD8B4}{\textsf{я}}\textcolor{#84D4AD}{\textsf{υ}}\textcolor{#7CD0A7}{\textsf{υ}}\textcolor{#75CCA0}{\textsf{ σ}}\textcolor{#6EC89A}{\textsf{я }}\textcolor{#67C493}{\textsf{м}}\textcolor{#60C08C}{\textsf{ι}}\textcolor{#58BC86}{\textsf{ѕ}}\textcolor{#51B87F}{\textsf{υ}}\textcolor{#4AB479}{\textsf{υ}}\textcolor{#43B072}{\textsf{.}}\textcolor{#3CAC6C}{\textsf{ ༉‧₊˚.}}$
+$\textcolor{#A8E6CF}{\textsf{ ۫ ׅ ✧ η}}\textcolor{#A1E2C8}{\textsf{ι}}\textcolor{#9AE0C1}{\textsf{к}}\textcolor{#92DCBB}{\textsf{σ}}\textcolor{#8BD8B4}{\textsf{я}}\textcolor{#84D4AD}{\textsf{υ}}\textcolor{#7CD0A7}{\textsf{υ}}\textcolor{#75CCA0}{\textsf{ σ}}\textcolor{#6EC89A}{\textsf{я }}\textcolor{#67C493}{\textsf{м}}\textcolor{#60C08C}{\textsf{ι}}\textcolor{#58BC86}{\textsf{ѕ}}\textcolor{#51B87F}{\textsf{υ}}\textcolor{#4AB479}{\textsf{υ}}\textcolor{#43B072}{\textsf{.}}\textcolor{#3CAC6C}{\textsf{ ‧₊˚.}}$
 
-
-ㅤ۪ㅤ𔓕ㅤׄ   pronouns >> he/they/it 𖹭
-  
-ㅤ۪ㅤ𔓕ㅤׄ   age >> 7teen 𖹭
-
-ㅤ۪ㅤ𔓕ㅤׄ   sexuality >> aro-ace 𖹭
-
-ㅤ۪ㅤ𔓕ㅤׄ   language >>  eng/tag 𖹭
     
 </p>
   </details>
