@@ -15,7 +15,7 @@ $\textcolor{#98FB98}{\textsf{"w}}\textcolor{#8DEE8D}{\textsf{e}}\textcolor{#82E1
 </p>
 
 <details>
-  <summary>$\textcolor{#C5E1A5}{\textsf{m}}\textcolor{#BDDC9C}{\textsf{o}}\textcolor{#B5D793}{\textsf{r}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{ a}}\textcolor{#9DC878}{\textsf{b}}\textcolor{#95C36F}{\textsf{o}}\textcolor{#8DBE66}{\textsf{u}}\textcolor{#85B95D}{\textsf{t}}\textcolor{#7DB454}{\textsf{ m}}\textcolor{#75AF4B}{\textsf{d}}\textcolor{#6DAA42}{\textsf{...}}$</summary>
+  <summary>$\textcolor{#C5E1A5}{\textsf{m}}\textcolor{#BDDC9C}{\textsf{o}}\textcolor{#B5D793}{\textsf{r}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{ a}}\textcolor{#9DC878}{\textsf{b}}\textcolor{#95C36F}{\textsf{o}}\textcolor{#8DBE66}{\textsf{u}}\textcolor{#85B95D}{\textsf{t}}\textcolor{#7DB454}{\textsf{ m}}\textcolor{#75AF4B}{\textsf{e}}\textcolor{#6DAA42}{\textsf{...}}$</summary>
 
 hi
 
