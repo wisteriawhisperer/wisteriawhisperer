@@ -13,7 +13,7 @@
 <div align="center">
   <details>
     <summary>$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝐦}}\textcolor{#BDDC9C}{\textsf{𝐨}}\textcolor{#B5D793}{\textsf{𝐫}}\textcolor{#ADD28A}{\textsf{𝐞}}\textcolor{#A5CD81}{\textsf{ 𝐚}}\textcolor{#9DC878}{\textsf{𝐛}}\textcolor{#95C36F}{\textsf{𝐨}}\textcolor{#8DBE66}{\textsf{𝐮}}\textcolor{#85B95D}{\textsf{𝐭}}\textcolor{#7DB454}{\textsf{ 𝐦}}\textcolor{#75AF4B}{\textsf{𝐞}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$</summary>
-    <p>$\textcolor{#98FB98}{\textsf{" 𝒉}}\textcolor{#8DEE8D}{\textsf{𝒐}}\textcolor{#82E182}{\textsf{𝒘}}\textcolor{#77D477}{\textsf{ 𝒔}}\textcolor{#6CC76C}{\textsf{𝒂}}\textcolor{#61BA61}{\textsf{𝒅}}\textcolor{#56AD56}{\textsf{...}}\textcolor{#4BA04B}{\textsf{ 𝒎𝒚}}\textcolor{#409340}{\textsf{ 𝒏}}\textcolor{#358635}{\textsf{𝒂}}\textcolor{#2A792A}{\textsf{𝒎}}\textcolor{#1F6C1F}{\textsf{𝒆}}\textcolor{#145F14}{\textsf{ 𝒊}}\textcolor{#095209}{\textsf{𝒔}}\textcolor{#004500}{\textsf{ 𝑵}}\textcolor{#003800}{\textsf{. "}}$
+    <p>$\textcolor{#98FB98}{\textsf{" 𝒀𝒐}}\textcolor{#8DEE8D}{\textsf{𝒖}}\textcolor{#82E182}{\textsf{ 𝒕𝒘}}\textcolor{#77D477}{\textsf{𝒐 }}\textcolor{#6CC76C}{\textsf{𝒄𝒂𝒏}}\textcolor{#61BA61}{\textsf{'𝒕 }}\textcolor{#56AD56}{\textsf{𝒉𝒆𝒂}}\textcolor{#4BA04B}{\textsf{𝒓 }}\textcolor{#409340}{\textsf{𝒊𝒕,}}\textcolor{#358635}{\textsf{ 𝒆}}\textcolor{#2A792A}{\textsf{𝒊}}\textcolor{#1F6C1F}{\textsf{𝒕}}\textcolor{#145F14}{\textsf{𝒉}}\textcolor{#095209}{\textsf{𝒆}}\textcolor{#004500}{\textsf{𝒓}}\textcolor{#003800}{\textsf{..."}}$
 
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/1edf5ac90e65e81361f05b568fdf525b375b4ade/pixel_N.gif" alt="N">
 
