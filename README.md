@@ -44,5 +44,9 @@ ${\color{#9CE564}─────────۶ৎ─────────}$
   $\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝒇𝒊𝒄}}\textcolor{#BDDC9C}{\textsf{𝒕}}\textcolor{#B5D793}{\textsf{𝒊}}\textcolor{#ADD28A}{\textsf{𝒐}}\textcolor{#A5CD81}{\textsf{𝒏}}\textcolor{#9DC878}{\textsf{𝒂𝒍 𝒐}}\textcolor{#95C36F}{\textsf{𝒕}}\textcolor{#8DBE66}{\textsf{𝒉}}\textcolor{#85B95D}{\textsf{𝒆}}\textcolor{#7DB454}{\textsf{𝒓}}\textcolor{#75AF4B}{\textsf{.}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$
 
 <p align="center">
+$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝒇𝒊𝒄}}\textcolor{#BDDC9C}{\textsf{𝒕}}\textcolor{#B5D793}{\textsf{𝒊}}\textcolor{#ADD28A}{\textsf{𝒐}}\textcolor{#A5CD81}{\textsf{𝒏}}\textcolor{#9DC878}{\textsf{𝒂𝒍 𝒐}}\textcolor{#95C36F}{\textsf{𝒕}}\textcolor{#8DBE66}{\textsf{𝒉}}\textcolor{#85B95D}{\textsf{𝒆}}\textcolor{#7DB454}{\textsf{𝒓}}\textcolor{#75AF4B}{\textsf{.}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$
+</p>
+
+<p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
 </p>
