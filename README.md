@@ -25,7 +25,7 @@ $\textcolor{#98FB98}{\textsf{" 𝒉}}\textcolor{#8DEE8D}{\textsf{𝒐}}\textcolo
 $\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝐦}}\textcolor{#BDDC9C}{\textsf{𝐨}}\textcolor{#B5D793}{\textsf{𝐫}}\textcolor{#ADD28A}{\textsf{𝐞}}\textcolor{#A5CD81}{\textsf{ 𝐚}}\textcolor{#9DC878}{\textsf{𝐛}}\textcolor{#95C36F}{\textsf{𝐨}}\textcolor{#8DBE66}{\textsf{𝐮}}\textcolor{#85B95D}{\textsf{𝐭}}\textcolor{#7DB454}{\textsf{ 𝐦}}\textcolor{#75AF4B}{\textsf{𝐞}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$
 </p>
 
- ㅤ۪ㅤ𔓕ㅤׄ   $\textcolor{#C5E1A5}{\textsf{n}}\textcolor{#BDDC9C}{\textsf{a}}\textcolor{#B5D793}{\textsf{m}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{/}}\textcolor{#9DC878}{\textsf{n}}\textcolor{#95C36F}{\textsf{i}}\textcolor{#8DBE66}{\textsf{ck}}\textcolor{#85B95D}{\textsf{n}}\textcolor{#7DB454}{\textsf{ a}}\textcolor{#75AF4B}{\textsf{m}}\textcolor{#6DAA42}{\textsf{e}}$ ; nikoruu / misuu 𖹭
+ ㅤ۪ㅤ𔓕ㅤׄ   $\textcolor{#C5E1A5}{\textsf{n}}\textcolor{#BDDC9C}{\textsf{a}}\textcolor{#B5D793}{\textsf{m}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{/}}\textcolor{#9DC878}{\textsf{n}}\textcolor{#95C36F}{\textsf{i}}\textcolor{#8DBE66}{\textsf{ck}}\textcolor{#85B95D}{\textsf{n}}\textcolor{#7DB454}{\textsf{a}}\textcolor{#75AF4B}{\textsf{m}}\textcolor{#6DAA42}{\textsf{e}}$ ; nikoruu / misuu 𖹭
 
  ㅤ۪ㅤ𔓕ㅤׄ   𝖭𝖺𝗆𝖾 >>  _____ 𖹭
 
