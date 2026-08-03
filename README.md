@@ -30,6 +30,9 @@ ${\color{#9CE564}──────────۶ৎ─────────�
  ㅤ۪ㅤ𔓕ㅤׄ   𝖭𝖺𝗆𝖾 >>  _____ 𖹭
 
  ㅤ۪ㅤ𔓕ㅤׄ   𝖭𝖺𝗆𝖾 >>  _____ 𖹭
+
+ ${\color{#9CE564}──────────۶ৎ──────────}$
+ 
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f628d39f303d9c23857da77fb3bce1b23d7a36c5/NxHanami.png" alt="NatuHana">
 </p>
