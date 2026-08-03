@@ -44,7 +44,7 @@ ${\color{#9CE564}─────────۶ৎ─────────}$
   $\textcolor{#C5E1A5}{\textsf{‿◞   𝒇𝒊𝒄}}\textcolor{#BDDC9C}{\textsf{𝒕}}\textcolor{#B5D793}{\textsf{𝒊}}\textcolor{#ADD28A}{\textsf{𝒐}}\textcolor{#A5CD81}{\textsf{𝒏}}\textcolor{#9DC878}{\textsf{𝒂𝒍 𝒐}}\textcolor{#95C36F}{\textsf{𝒕}}\textcolor{#8DBE66}{\textsf{𝒉}}\textcolor{#85B95D}{\textsf{𝒆}}\textcolor{#7DB454}{\textsf{𝒓}}\textcolor{#75AF4B}{\textsf{.}}\textcolor{#6DAA42}{\textsf{ 🍃   ֪    ♡}}$
 
 <p align="center">
-$\textcolor{#C5E1A5}{\textsf{𓂃 . 𝒇𝒊𝒄}}\textcolor{#BDDC9C}{\textsf{𝒕}}\textcolor{#B5D793}{\textsf{𝒊}}\textcolor{#ADD28A}{\textsf{𝒐}}\textcolor{#A5CD81}{\textsf{𝒏}}\textcolor{#9DC878}{\textsf{𝒂𝒍 𝒐}}\textcolor{#95C36F}{\textsf{𝒕}}\textcolor{#8DBE66}{\textsf{𝒉}}\textcolor{#85B95D}{\textsf{𝒆}}\textcolor{#7DB454}{\textsf{𝒓}}\textcolor{#75AF4B}{\textsf{ . 𓂃}}$
+$\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur }}\textcolor{#B5D793}{\textsf{al}}\textcolor{#ADD28A}{\textsf{ H}}\textcolor{#A5CD81}{\textsf{ar}}\textcolor{#9DC878}{\textsf{m}}\textcolor{#95C36F}{\textsf{on}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{a}}\textcolor{#7DB454}{\textsf{Gro}}\textcolor{#75AF4B}{\textsf{pius . 𓂃}}$
 </p>
 
 <p align="center">
