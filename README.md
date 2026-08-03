@@ -41,6 +41,13 @@ ${\color{#9CE564}─────────۶ৎ─────────}$
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f628d39f303d9c23857da77fb3bce1b23d7a36c5/NxHanami.png" alt="NatuHana">
 </p>
 
+ <div align="center">
+  <details>
+    <summary>$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝒇𝒊𝒄}}\textcolor{#BDDC9C}{\textsf{𝒕}}\textcolor{#B5D793}{\textsf{𝒊}}\textcolor{#ADD28A}{\textsf{𝒐}}\textcolor{#A5CD81}{\textsf{𝒏}}\textcolor{#9DC878}{\textsf{𝒂𝒍 𝒐}}\textcolor{#95C36F}{\textsf{𝒕}}\textcolor{#8DBE66}{\textsf{𝒉}}\textcolor{#85B95D}{\textsf{𝒆}}\textcolor{#7DB454}{\textsf{𝒓}}\textcolor{#75AF4B}{\textsf{.}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$</summary>
+    <p>$\textcolor{#98FB98}{\textsf{" 𝒀𝒐}}\textcolor{#8DEE8D}{\textsf{𝒖}}\textcolor{#82E182}{\textsf{ 𝒕𝒘}}\textcolor{#77D477}{\textsf{𝒐 }}\textcolor{#6CC76C}{\textsf{𝒄𝒂𝒏}}\textcolor{#61BA61}{\textsf{'𝒕 }}\textcolor{#56AD56}{\textsf{𝒉𝒆𝒂}}\textcolor{#4BA04B}{\textsf{𝒓 }}\textcolor{#409340}{\textsf{𝒊𝒕,}}\textcolor{#358635}{\textsf{ 𝒆}}\textcolor{#2A792A}{\textsf{𝒊}}\textcolor{#1F6C1F}{\textsf{𝒕}}\textcolor{#145F14}{\textsf{𝒉}}\textcolor{#095209}{\textsf{𝒆}}\textcolor{#004500}{\textsf{𝒓}}\textcolor{#003800}{\textsf{..."}}$</p>
+  </details>
+</div>
+
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
 </p>
