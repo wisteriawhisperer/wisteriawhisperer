@@ -17,7 +17,7 @@
 
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/1edf5ac90e65e81361f05b568fdf525b375b4ade/pixel_N.gif" alt="N">
 
-$${\color{#9CE564}@naturalharmoniaa  <————— main account}$$
+$${\color{#9CE564}@naturalharmoniaa <— main account}$$
 
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f628d39f303d9c23857da77fb3bce1b23d7a36c5/NxHanami.png" alt="NatuHana">
