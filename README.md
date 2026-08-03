@@ -48,7 +48,7 @@ $\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur}}\textco
 </p>
 
 <p align="right">
-$\textcolor{#C5E1A5}{\textsf{𓂃 . 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\textcolor{#B5D793}{\textsf{𝒏 }}\textcolor{#ADD28A}{\textsf{𝒔}}\textcolor{#A5CD81}{\textsf{𝒉}}\textcolor{#9DC878}{\textsf{𝒂}}\textcolor{#95C36F}{\textsf{𝒓}}\textcolor{#8DBE66}{\textsf{𝒊}}\textcolor{#85B95D}{\textsf{𝒏}}\textcolor{#7DB454}{\textsf{𝒈}}\textcolor{#75AF4B}{\textsf{ . 𓂃}}$
+$\textcolor{#C5E1A5}{\textsf{𓂃 .status: 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\textcolor{#B5D793}{\textsf{𝒏 }}\textcolor{#ADD28A}{\textsf{𝒔}}\textcolor{#A5CD81}{\textsf{𝒉}}\textcolor{#9DC878}{\textsf{𝒂}}\textcolor{#95C36F}{\textsf{𝒓}}\textcolor{#8DBE66}{\textsf{𝒊}}\textcolor{#85B95D}{\textsf{𝒏}}\textcolor{#7DB454}{\textsf{𝒈}}\textcolor{#75AF4B}{\textsf{ . 𓂃}}$
 </p>
 
 <p align="center">
