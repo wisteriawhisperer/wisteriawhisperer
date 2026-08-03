@@ -47,6 +47,10 @@ ${\color{#9CE564}─────────۶ৎ─────────}$
 $\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur}}\textcolor{#B5D793}{\textsf{al}}\textcolor{#ADD28A}{\textsf{ H}}\textcolor{#A5CD81}{\textsf{ar}}\textcolor{#9DC878}{\textsf{m}}\textcolor{#95C36F}{\textsf{on}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{a}}\textcolor{#7DB454}{\textsf{ Gro}}\textcolor{#75AF4B}{\textsf{pius . 𓂃}}$
 </p>
 
+<p align="right">
+$\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur}}\textcolor{#B5D793}{\textsf{al}}\textcolor{#ADD28A}{\textsf{ H}}\textcolor{#A5CD81}{\textsf{ar}}\textcolor{#9DC878}{\textsf{m}}\textcolor{#95C36F}{\textsf{on}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{a}}\textcolor{#7DB454}{\textsf{ Gro}}\textcolor{#75AF4B}{\textsf{pius . 𓂃}}$
+</p>
+
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
 </p>
