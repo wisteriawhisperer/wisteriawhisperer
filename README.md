@@ -21,7 +21,7 @@
 $\textcolor{#98FB98}{\textsf{" 𝒉}}\textcolor{#8DEE8D}{\textsf{𝒐}}\textcolor{#82E182}{\textsf{𝒘}}\textcolor{#77D477}{\textsf{ 𝒔}}\textcolor{#6CC76C}{\textsf{𝒂}}\textcolor{#61BA61}{\textsf{𝒅}}\textcolor{#56AD56}{\textsf{...}}\textcolor{#4BA04B}{\textsf{ 𝒎𝒚}}\textcolor{#409340}{\textsf{ 𝒏}}\textcolor{#358635}{\textsf{𝒂}}\textcolor{#2A792A}{\textsf{𝒎}}\textcolor{#1F6C1F}{\textsf{𝒆}}\textcolor{#145F14}{\textsf{ 𝒊}}\textcolor{#095209}{\textsf{𝒔}}\textcolor{#004500}{\textsf{ 𝑵}}\textcolor{#003800}{\textsf{. "}}$
 </p>
 
-${\color{#9CE564}──────────۶ৎ──────────}$
+${\color{#9CE564}─────────۶ৎ─────────}$
 
  ㅤ۪ㅤ𔓕ㅤׄ   $\textcolor{#C5E1A5}{\textsf{n}}\textcolor{#BDDC9C}{\textsf{a}}\textcolor{#B5D793}{\textsf{m}}\textcolor{#ADD28A}{\textsf{e}}\textcolor{#A5CD81}{\textsf{/}}\textcolor{#9DC878}{\textsf{n}}\textcolor{#95C36F}{\textsf{i}}\textcolor{#8DBE66}{\textsf{ck}}\textcolor{#85B95D}{\textsf{n}}\textcolor{#7DB454}{\textsf{a}}\textcolor{#75AF4B}{\textsf{m}}\textcolor{#6DAA42}{\textsf{e}}$ ; $\textcolor{#98FB98}{\textsf{n}}\textcolor{#8DEE8D}{\textsf{i}}\textcolor{#82E182}{\textsf{k}}\textcolor{#77D477}{\textsf{o}}\textcolor{#6CC76C}{\textsf{r}}\textcolor{#61BA61}{\textsf{u}}\textcolor{#56AD56}{\textsf{u}}\textcolor{#4BA04B}{\textsf{ /}}\textcolor{#409340}{\textsf{ m}}\textcolor{#358635}{\textsf{i}}\textcolor{#2A792A}{\textsf{s}}\textcolor{#1F6C1F}{\textsf{u}}\textcolor{#145F14}{\textsf{u}}\textcolor{#095209}{\textsf{ (k}}\textcolor{#004500}{\textsf{u}}\textcolor{#003800}{\textsf{ro)}}$ ✦
 
@@ -31,7 +31,7 @@ ${\color{#9CE564}──────────۶ৎ─────────�
 
  ㅤ۪ㅤ𔓕ㅤׄ   𝖭𝖺𝗆𝖾 >>  _____ ✦
 
- ${\color{#9CE564}──────────۶ৎ──────────}$
+ ${\color{#9CE564}─────────۶ৎ─────────}$
  
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f628d39f303d9c23857da77fb3bce1b23d7a36c5/NxHanami.png" alt="NatuHana">
