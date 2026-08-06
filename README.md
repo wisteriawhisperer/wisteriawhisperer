@@ -57,7 +57,7 @@ $\textcolor{#C5E1A5}{\textsf{status: 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\te
 
 <div align="center">
   <details>
-    <summary>$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞 𝐦}}\textcolor{#BDDC9C}{\textsf{𝐨}}\textcolor{#B5D793}{\textsf{𝐫}}\textcolor{#ADD28A}{\textsf{𝐞}}\textcolor{#A5CD81}{\textsf{ 𝐚}}\textcolor{#9DC878}{\textsf{𝐛}}\textcolor{#95C36F}{\textsf{𝐨}}\textcolor{#8DBE66}{\textsf{𝐮}}\textcolor{#85B95D}{\textsf{𝐭}}\textcolor{#7DB454}{\textsf{ 𝐦}}\textcolor{#75AF4B}{\textsf{𝐞}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$</summary>
+    <summary>$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞}}\textcolor{#BDDC9C}{\textsf{y}}\textcolor{#B5D793}{\textsf{u}}\textcolor{#ADD28A}{\textsf{m}}\textcolor{#A5CD81}{\textsf{e}}\textcolor{#9DC878}{\textsf{s}}\textcolor{#95C36F}{\textsf{h}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{p}}\textcolor{#7DB454}{\textsf{ in}}\textcolor{#75AF4B}{\textsf{fo}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$</summary>
     <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4c17fb67fecf0e950d03659e04bdbeb3c976b737/Yumeship.png" alt="NatuHana">
 </p>
   </details>
