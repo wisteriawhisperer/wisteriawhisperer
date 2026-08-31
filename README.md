@@ -52,7 +52,9 @@ $\textcolor{#C5E1A5}{\textsf{status: 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\te
 </p>
 
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4c17fb67fecf0e950d03659e04bdbeb3c976b737/Yumeship.png" alt="NatuHana">
-
+</p>
+  </details>
+</div>
 
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
