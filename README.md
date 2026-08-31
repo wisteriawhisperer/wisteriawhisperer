@@ -33,10 +33,6 @@ ${\color{#9CE564}─────────۶ৎ─────────}$
 
  ${\color{#9CE564}─────────۶ৎ─────────}$
 
-</p>
-  </details>
-</div>
-
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f628d39f303d9c23857da77fb3bce1b23d7a36c5/NxHanami.png" alt="NatuHana">
 </p>
@@ -55,13 +51,8 @@ $\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur}}\textco
 $\textcolor{#C5E1A5}{\textsf{status: 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\textcolor{#B5D793}{\textsf{𝒏-}}\textcolor{#ADD28A}{\textsf{𝒔}}\textcolor{#A5CD81}{\textsf{𝒉}}\textcolor{#9DC878}{\textsf{𝒂}}\textcolor{#95C36F}{\textsf{𝒓}}\textcolor{#8DBE66}{\textsf{𝒊}}\textcolor{#85B95D}{\textsf{𝒏}}\textcolor{#7DB454}{\textsf{𝒈}}\textcolor{#75AF4B}{\textsf{ ◞ ‿}}$
 </p>
 
-<div align="center">
-  <details>
-    <summary>$\textcolor{#C5E1A5}{\textsf{𓂃 . 𐑞}}\textcolor{#BDDC9C}{\textsf{y}}\textcolor{#B5D793}{\textsf{u}}\textcolor{#ADD28A}{\textsf{m}}\textcolor{#A5CD81}{\textsf{e}}\textcolor{#9DC878}{\textsf{s}}\textcolor{#95C36F}{\textsf{h}}\textcolor{#8DBE66}{\textsf{i}}\textcolor{#85B95D}{\textsf{p}}\textcolor{#7DB454}{\textsf{ in}}\textcolor{#75AF4B}{\textsf{fo}}\textcolor{#6DAA42}{\textsf{ ︶  ⟢}}$</summary>
-    <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4c17fb67fecf0e950d03659e04bdbeb3c976b737/Yumeship.png" alt="NatuHana">
-</p>
-  </details>
-</div>
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4c17fb67fecf0e950d03659e04bdbeb3c976b737/Yumeship.png" alt="NatuHana">
+
 
 <p align="center">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/down_divider.png" alt="divider">
