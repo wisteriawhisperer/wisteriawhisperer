@@ -51,7 +51,6 @@ $\textcolor{#C5E1A5}{\textsf{𓂃 . Nat}}\textcolor{#BDDC9C}{\textsf{ur}}\textco
 $\textcolor{#C5E1A5}{\textsf{status: 𝒏}}\textcolor{#BDDC9C}{\textsf{𝒐}}\textcolor{#B5D793}{\textsf{𝒏-}}\textcolor{#ADD28A}{\textsf{𝒔}}\textcolor{#A5CD81}{\textsf{𝒉}}\textcolor{#9DC878}{\textsf{𝒂}}\textcolor{#95C36F}{\textsf{𝒓}}\textcolor{#8DBE66}{\textsf{𝒊}}\textcolor{#85B95D}{\textsf{𝒏}}\textcolor{#7DB454}{\textsf{𝒈}}\textcolor{#75AF4B}{\textsf{ ◞ ‿}}$
 </p>
 
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4c17fb67fecf0e950d03659e04bdbeb3c976b737/Yumeship.png" alt="NatuHana">
 </p>
   </details>
 </div>
