@@ -16,4 +16,4 @@
 <p align="center">
   <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/wisteriawhisperer/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=8DCFC5&labelColor=3A4154"/></a>
 
-$\textcolor{#FFFFFF}{\textsf{𝗺}}\textcolor{#FFFFFF}{\textsf{o}}\textcolor{#FFFFFF}{\textsf{r}}\textcolor{#FFFFFF}{\textsf{e}}\textcolor{#FFFFFF}{\textsf{ a}}\textcolor{#FFFFFF}{\textsf{b}}\textcolor{#FFFFFF}{\textsf{o}}\textcolor{#FFFFFF}{\textsf{u}}\textcolor{#FFFFFF}{\textsf{t}}\textcolor{#FFFFFF}{\textsf{ m}}\textcolor{#FFFFFF}{\textsf{e}}$
+<sub>$\textcolor{#FFFFFF}{\textsf{N}}\textcolor{#FFFFFF}{\textsf{ no}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{-s}}\textcolor{#FFFFFF}{\textsf{h}}\textcolor{#FFFFFF}{\textsf{a}}\textcolor{#FFFFFF}{\textsf{r}}\textcolor{#FFFFFF}{\textsf{i}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{g}}$</sub>
