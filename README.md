@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<sub>𝗻on 𝘀𝗵aring⠀⠀ ⠀ ⠀⠀ ⠀ 🎱⠀⠀ ⠀ ⠀⠀ ⠀ non-binary</sub>
+<sub>𝗻on 𝘀𝗵aring⠀⠀ ⠀ ⠀⠀ ⠀ 🎱⠀⠀ ⠀ ⠀⠀ ⠀ 𝗻on binary</sub>
 </p>
 
 <table>
