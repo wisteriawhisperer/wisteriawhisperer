@@ -17,3 +17,7 @@
   <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/wisteriawhisperer/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=8DCFC5&labelColor=3A4154"/></a>
 
 <sub>$\textcolor{#FFFFFF}{\textsf{𝗻}}\textcolor{#FFFFFF}{\textsf{o}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{ 𝘀}}\textcolor{#FFFFFF}{\textsf{𝗵}}\textcolor{#FFFFFF}{\textsf{a}}\textcolor{#FFFFFF}{\textsf{r}}\textcolor{#FFFFFF}{\textsf{i}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{g}}$</sub>
+
+<a href="DESTINATION_URL">
+  <img src="IMAGE_URL" alt="Harmonia" width="200">
+</a>
