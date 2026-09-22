@@ -17,9 +17,7 @@
 
 <td width="100%" valign="top">
       <p align="center">
-      </p>
-
-<sub>int w caution always</sub>
+      </p><sub>int w caution always</sub></p>
 <p align="center">
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/6883a480f4660488a20ceab8ba6d6258f87432a7/pixel_clover.gif" alt="Harmonia" width="20">
