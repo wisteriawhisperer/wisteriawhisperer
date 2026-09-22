@@ -18,6 +18,8 @@
 
 <sub>$\textcolor{#FFFFFF}{\textsf{𝗻}}\textcolor{#FFFFFF}{\textsf{o}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{ 𝘀}}\textcolor{#FFFFFF}{\textsf{𝗵}}\textcolor{#FFFFFF}{\textsf{a}}\textcolor{#FFFFFF}{\textsf{r}}\textcolor{#FFFFFF}{\textsf{i}}\textcolor{#FFFFFF}{\textsf{n}}\textcolor{#FFFFFF}{\textsf{g}}$</sub>
 
+<p align="center">
 <a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/6883a480f4660488a20ceab8ba6d6258f87432a7/pixel_clover.gif" alt="Harmonia" width="200">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/6883a480f4660488a20ceab8ba6d6258f87432a7/pixel_clover.gif" alt="Harmonia" width="20">
 </a>
+</p>
