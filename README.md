@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td width="100%" align="center" valign="top">
-      <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Crying.png">
+      <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f1f38afcbb17da7dc8abb8b04511ddf83faa1f60/6d23fd677a03089c8988cdd22f18ab49.jpg">
 $\textcolor{#7CC1F7}{\textsf{" 𝒘}}\textcolor{#99D2FA}{\textsf{𝒆'}}\textcolor{#BBE4FC}{\textsf{𝒗𝒆}}\textcolor{#D8F1FE}{\textsf{ 𝒕}}\textcolor{#BBE4FC}{\textsf{𝒂𝒌𝒆}}\textcolor{#99D2FA}{\textsf{𝒏 𝒂𝒏}}\textcolor{#7CC1F7}{\textsf{𝒐𝒕𝒉𝒆}}\textcolor{#62AEF0}{\textsf{𝒓 𝒔𝒕𝒆}}\textcolor{#509AE3}{\textsf{𝒑 𝒇𝒐}}\textcolor{#4488D5}{\textsf{𝒓𝒘}}\textcolor{#3E83C8}{\textsf{𝒂𝒓𝒅. "}}$
     </td>
 
