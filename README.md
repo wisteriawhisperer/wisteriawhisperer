@@ -2,13 +2,7 @@
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/up_divider.png" alt="divider">
 </p>
 
-<p align="center">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/e6e8aeb73810463464472f30503880235cd65fd6/N.png" alt="N">
-</p>
-
-<p align="center">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=‎₊˚🍀⊹‎_&color=9CE564" alt="Profile Views"> <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/22a666f95c5062daca0c1eecfd76256b43a15a60/pixel_clover.gif" width="20" height="56">
-</p>
+<img src="https://komarev.com/ghpvc/?username=wisteriawhisperer&label=‎₊˚🍀⊹‎_&color=9CE564" alt="Profile Views">
 
 <div align="center">
     <p>$\textcolor{#98FB98}{\textsf{" 𝒀𝒐}}\textcolor{#8DEE8D}{\textsf{𝒖}}\textcolor{#82E182}{\textsf{ 𝒕𝒘}}\textcolor{#77D477}{\textsf{𝒐 }}\textcolor{#6CC76C}{\textsf{𝒄𝒂𝒏}}\textcolor{#61BA61}{\textsf{'𝒕 }}\textcolor{#56AD56}{\textsf{𝒉𝒆𝒂}}\textcolor{#4BA04B}{\textsf{𝒓 }}\textcolor{#409340}{\textsf{𝒊𝒕,}}\textcolor{#358635}{\textsf{ 𝒆}}\textcolor{#2A792A}{\textsf{𝒊}}\textcolor{#1F6C1F}{\textsf{𝒕}}\textcolor{#145F14}{\textsf{𝒉}}\textcolor{#095209}{\textsf{𝒆}}\textcolor{#004500}{\textsf{𝒓}}\textcolor{#003800}{\textsf{..."}}$
