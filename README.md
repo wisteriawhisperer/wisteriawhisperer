@@ -23,7 +23,12 @@
 </a>
 
   <p align="center">
-<sub><sub>duplicate to test</sub></sub>
+<sub><sub>experimenting</sub></sub>
+<a href="https://github.com/naturalharmoniaa">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" alt="Harmonia" width="100">
+
+  <p align="center">
+<sub><sub>another test</sub></sub>
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/ezgif-8cf186015fa57932%20(1).gif" alt="Harmonia" width="100">
 </a>
