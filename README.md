@@ -25,7 +25,7 @@
   <p align="center">
 <sub><sub>duplicate to test</sub></sub>
 <a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="100">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/ezgif-8cf186015fa57932%20(1).gif" alt="Harmonia" width="100">
 </a>
     
 </p>
@@ -41,3 +41,11 @@
 <p align="center">
 <sub>𝗻atural 𝗵armonia 𝗴ropius⠀⠀ ⠀ ⠀📎⠀⠀ ⠀ ⠀ 𝗻on 𝘀𝗵aring</sub>
 </p>
+
+<table>
+<tr>
+<td width="100%" align="center" valign="top">
+<p align="center">
+ <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/tumblr_00442dacd8d6dd0ccf63c018823bbd3f_1f8ffff5_540.gif">
+</p>
+</td>
