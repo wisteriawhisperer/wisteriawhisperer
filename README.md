@@ -22,11 +22,25 @@
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="100">
 </a>
 
+<p align="center">
+♡
+</p>
+
   <p align="center">
 <sub><sub>experimenting</sub></sub>
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" alt="Harmonia" width="100">
-    
+
+<p align="center">
+𓎢𓎠𓎟𓎠𓎡
+</p>
+
+<p align="center">
+<sub>hi i genuinely can't do ts without tweaking</sub>
+</p>
+
+<p align="center">
+𓎢𓎠𓎟𓎠𓎡
 </p>
 
 </tr>
