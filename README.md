@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<sub>hi i genuinely can't do ts without tweaking</sub>
+<sub>"I never expected to hear Pokémon say such things..."</sub>
 </p>
 
 <p align="center">
