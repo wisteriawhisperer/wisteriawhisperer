@@ -30,4 +30,12 @@
 <tr>
 <td width="100%" align="center" valign="top">
 this is a test.
-    </td>
+</td>
+
+<p align="center">
+<sub>🖇️⠀⠀ ⠀ ⠀⠀ ⠀ 𝗱oubles 𝗱𝗻𝗶⠀⠀ ⠀ ⠀⠀ ⠀ ⸝⠀𝗵ᥱ⠀⠀𝘁hey</sub>
+</p>
+
+<p align="center">
+<sub>𝗻on 𝗯inary⸝⠀𝗮ro 𝗮ce⠀⠀ ⠀ ⠀📎⠀⠀ ⠀ ⠀ 𝗻on 𝘀𝗵aring</sub>
+</p>
