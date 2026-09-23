@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<sub>𝗻on 𝗯inary ⸝⠀𝗮ro 𝗮ce⠀⠀ ⠀ ⠀🎱⠀⠀ ⠀ ⠀⠀  𝗻on 𝘀𝗵aring</sub>
+<sub>𝗻on 𝗯inary ⸝⠀𝗮ro 𝗮ce⠀⠀ ⠀ ⠀🎱⠀⠀ ⠀ ⠀⠀  𝗳ilipino.</sub>
 </p>
 
 <table>
