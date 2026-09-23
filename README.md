@@ -47,6 +47,12 @@
 <sub>𝗻atural 𝗵armonia 𝗴ropius⠀⠀ ⠀ ⠀📎⠀⠀ ⠀ ⠀ 𝗻on 𝘀𝗵aring</sub>
 </p>
 
+<p align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifb52xcl5zpgy3s4binhzzqfhy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=56bffc&bar_color_cover=false">
+  </a>
+</p>
+  
 <table>
 <tr>
 <td width="100%" align="center" valign="top">
