@@ -17,9 +17,17 @@
 
 <td width="100%" valign="top">
 <p align="center">
+<sub>click to check</sub>
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="100">
 </a>
+
+  <p align="center">
+<sub>duplicate to test</sub>
+<a href="https://github.com/naturalharmoniaa">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="100">
+</a>
+    
 </p>
 
 </tr>
