@@ -33,7 +33,7 @@ this is a test.
 </td>
 
 <p align="center">
-<sub>🖇️⠀⠀ ⠀ ⠀⠀ ⠀ hi⠀⠀ ⠀ ⠀⠀ ⠀ ⸝⠀𝗱oubles 𝗱𝗻𝗶</sub>
+<sub>🖇️⠀⠀ ⠀ ⠀⠀ ⠀ 𝗡 𝘆ume 𝗳ict𝗸in⠀⠀ ⠀ ⠀⠀ ⠀ ⸝⠀𝗱oubles 𝗱𝗻𝗶</sub>
 </p>
 
 <p align="center">
