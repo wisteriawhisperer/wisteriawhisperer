@@ -27,12 +27,6 @@
 </td>
 </table>
 
-<table>
-<tr>
-<td width="100%" align="center" valign="top">
-this is a test.
-</td>
-
 <p align="center">
 <sub>🖇️⠀⠀ ⠀ ⠀⠀ ⠀ 𝗡 𝘆ume 𝗳ict𝗸i͟n͟⠀⠀ ⠀ ⠀⠀ ⠀ ⸝⠀𝗱oubles 𝗱𝗻𝗶</sub>
 </p>
