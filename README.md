@@ -16,7 +16,6 @@
     </td>
 
 <td width="100%" valign="top">
-      <p align="center">
 <p align="center">
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/6883a480f4660488a20ceab8ba6d6258f87432a7/pixel_clover.gif" alt="Harmonia" width="20">
@@ -27,4 +26,8 @@
 </td>
 </table>
 
-[![harmonia](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=100&color=BABABA&center=true&vCenter=true&width=800&lines=hello)](https://git.io/typing-svg)
+<table>
+<tr>
+<td width="100%" align="center" valign="top">
+this is a test.
+    </td>
