@@ -18,7 +18,7 @@
 <td width="100%" valign="top">
 <p align="center">
 <a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/6883a480f4660488a20ceab8ba6d6258f87432a7/pixel_clover.gif" alt="Harmonia" width="20">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="20">
 </a>
 </p>
 
