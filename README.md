@@ -26,12 +26,6 @@
 <sub><sub>experimenting</sub></sub>
 <a href="https://github.com/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" alt="Harmonia" width="100">
-
-  <p align="center">
-<sub><sub>another test</sub></sub>
-<a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/ezgif-8cf186015fa57932%20(1).gif" alt="Harmonia" width="100">
-</a>
     
 </p>
 
@@ -59,5 +53,16 @@
 <p align="center">
  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/tumblr_00442dacd8d6dd0ccf63c018823bbd3f_1f8ffff5_540.gif">
   <sub>"𝗮s 𝗮 𝗿esult... 𝗽okémon 𝗮nd 𝘁rainers 𝘄ho 𝗰are 𝗮bout one 𝗮nother, 𝗹ike 𝘆ou 𝗮nd 𝘆our 𝗽okémon, 𝘄ill 𝗯e 𝘀eparated. 𝗮nd 𝘁hat 𝗱oes 𝗯reak m𝘆 𝗵eart 𝗮 𝗹ittle."</sub>
+</p>
+</td>
+
+<table>
+<tr>
+<td width="100%" align="center" valign="top">
+<a href="https://github.com/naturalharmoniaa">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/ezgif-8cf186015fa57932%20(1).gif" alt="Harmonia" width="100">
+</a>
+  
+  <sub>wait...</sub>
 </p>
 </td>
