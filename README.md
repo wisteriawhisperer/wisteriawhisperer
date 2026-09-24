@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<sub>i resonate with N so deeply, i yearn for him.</sub>
+<sub>i resonate with N so deeply, even trauma and core values.</sub>
 </p>
 
 <p align="center">
