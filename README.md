@@ -60,3 +60,16 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifb52xcl5zpgy3s4binhzzqfhy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=56bffc&bar_color_cover=false">
   </a>
 </p>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+      <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N_Black_2_and_White_2.png">
+  <sub>kuroizuma / yorukenma</sub>
+    </td>
+  
+<td width="50%" valign="top">
+<p align="center">
+      <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
+  <sub>active on instagram</sub>
+    </td>
