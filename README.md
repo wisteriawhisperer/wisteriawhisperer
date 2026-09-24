@@ -62,7 +62,7 @@
 <tr>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&pause=150&color=8DCFC5&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=95&lines=As+a+result...+Pok%C3%A9mon+and+Trainers+who+care+about+one+another%2C;like+you+and+your+Pok%C3%A9mon%2C+will+be+separated.;And+that+does+break+my+heart+a+little." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&pause=500&color=8DCFC5&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=As+a+result...+Pok%C3%A9mon+and+Trainers+who+care+about+one+another%2C;like+you+and+your+Pok%C3%A9mon%2C+will+be+separated.;And+that+does+break+my+heart+a+little." alt="Typing SVG" /></a>
 </p>
 
 <td width="50%" align="center" valign="top">
