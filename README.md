@@ -57,7 +57,7 @@
 
 <div align="center">
   <details>
-    <summary>♡</summary>
+    <summary>𐂯</summary>
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
