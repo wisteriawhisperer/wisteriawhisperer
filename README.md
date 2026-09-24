@@ -61,9 +61,13 @@
   </a>
 </p>
 
+<p align="center">
+♡
+</p>
+
 <div align="center">
   <details>
-    <summary>
+    <summary>hello</summary>
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -75,8 +79,6 @@
 <p align="center">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
   <sub>active on instagram</sub>
-    </td>
-</summary>
 </td>
 </tr>
 </table>
