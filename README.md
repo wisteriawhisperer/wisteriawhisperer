@@ -89,8 +89,4 @@
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifb52xcl5zpgy3s4binhzzqfhy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=56bffc&bar_color_cover=false">
-  </a>
-</p>
+<img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/4e576197071c7d041e4837bc5891c29ed110a13b/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f76696577...72756526686964655f72656d61737465723d74727565266261725f636f6c6f723d353662666663266261725f636f6c6f725f636f7665723d66616c7365.svg">
