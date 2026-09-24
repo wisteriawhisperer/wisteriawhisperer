@@ -61,8 +61,10 @@
 <table>
 <tr>
 
-  [![N](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=100&color=8DCFC5&center=true&vCenter=true&width=800&lines="Wait!+Ghetsis!";"I+hate+you.";"I'll+never+forget+what+you+did+in+Unova.";"But+you're+still+N's+father!";"You+raised+him+and+spent+all+those+years+together!";"Are+you+really+going+to+say+you+felt+nothing...";"when+you+two+fought+side+by+side+earlier?";"It's+not+too+late+to+change+your+ways!";"Please...+Think+about+it!";"Ghetsis!";"...")](https://git.io/typing-svg)
-  
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&pause=150&color=8DCFC5&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=95&lines=As+a+result...+Pok%C3%A9mon+and+Trainers+who+care+about+one+another%2C;like+you+and+your+Pok%C3%A9mon%2C+will+be+separated.;And+that+does+break+my+heart+a+little." alt="Typing SVG" /></a>
+</p>
+
 <td width="50%" align="center" valign="top">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N_Black_2_and_White_2.png">
   <sub>♡ ⠀𝘀pecial mentions͟ ⠀</sub>
