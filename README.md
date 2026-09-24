@@ -63,10 +63,10 @@
 <td width="50%" align="center" valign="top">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N_Black_2_and_White_2.png">
   <sub>♡ ⠀𝘀pecial mentions͟ ⠀</sub>
-  <sub><sub>chiiwara⠀nana⠀yume⠀vil</sub></sub>
+  <sub><sub>chiiwara⠀nana⠀yume⠀𝘃il</sub></sub>
   
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
-  <sub><sub>mei mikyii irene kev luc aoki kyu sexy lemonii rex vether xene infugue stariyuu</sub></sub>
+  <sub><sub>𝗺ei 𝗺𝗶ikyii 𝗶rene 𝗸ev luc aoki 𝗸yu 𝘀exy lemonii rex vether xene 𝗶nfugue 𝘀tariyuu</sub></sub>
     </td>
   
 <td width="50%" valign="top">
