@@ -72,7 +72,7 @@
 <td width="50%" valign="top">
 <p align="center">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
-  <sub>𝗽ony town's 𝗻atural harmoni͟a͟ ⸝ ⠀𝗻ope your too late i already died by wifiskeleton</sub>
+  <sub>𝗽ony town's 𝗻atural harmoni͟a͟ ⸝ ⠀𝗻ope your too late i already died by 𝘄𝗶fi𝘀keleton͟</sub>
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
   <sub><a href="https://github.com/music-town">music town</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
