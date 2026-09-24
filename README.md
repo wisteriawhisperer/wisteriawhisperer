@@ -65,7 +65,7 @@
   <sub>♡ ⠀special mentions .</sub>
   <sub><sub>chiiwara⠀nana⠀yume⠀vil</sub></sub>
   
-  <sub>𓏵⠀other friends .</sub>
+  <sub>☁︎⠀other friends .</sub>
   <sub><sub>mei⠀mikyii⠀kev⠀luc⠀aoki⠀infugue</sub></sub>
     </td>
   
