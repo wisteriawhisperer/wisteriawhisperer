@@ -68,7 +68,7 @@
 <td width="50%" valign="top">
 <p align="center">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
-  <sub>active on instagram</sub>
+  <sub>inactive</sub>
 </td>
 </tr>
 </table>
