@@ -15,7 +15,7 @@
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/f1f38afcbb17da7dc8abb8b04511ddf83faa1f60/6d23fd677a03089c8988cdd22f18ab49.jpg">
     </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 <p align="center">
 <sub><sub>new⠀新book</sub></sub>
 <a href="https://naomii.atabook.org/">
