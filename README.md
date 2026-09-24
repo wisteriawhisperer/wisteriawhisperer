@@ -66,7 +66,7 @@
   <sub><sub>chiiwara⠀nana⠀yume⠀vil</sub></sub>
   
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
-  <sub><sub>mei⠀mikyii⠀kev⠀luc⠀aoki⠀infugue</sub></sub>
+  <sub><sub>mei mikyii kev luc aoki rex infugue stariyuu</sub></sub>
     </td>
   
 <td width="50%" valign="top">
