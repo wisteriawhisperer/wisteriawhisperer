@@ -72,7 +72,13 @@
 <td width="50%" valign="top">
 <p align="center">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
-  <sub>pony town's natural harmonia</sub>
+  <sub><a href="https://github.com/Ponytowns-rewards">ponytown awards</a></sub>
+  <sub><a href="https://github.com/music-town">music town</a></sub>
+  <sub><a href="https://github.com/pt-icon">pt icon</a></sub>
+  <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
+  <sub><a href="https://github.com/kaotown">kaotown</a></sub>
+  <sub><a href="https://github.com/pt-ship-nominations">pt ship nominations</a></sub>
+
 </td>
 </tr>
 </table>
