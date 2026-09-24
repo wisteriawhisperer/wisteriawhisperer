@@ -27,8 +27,8 @@
 </p>
 
   <p align="center">
-<sub><sub>experimenting</sub></sub>
-<a href="https://github.com/naturalharmoniaa">
+<sub><sub>chill area</sub></sub>
+<a href="https://guns.lol/naturalharmoniaa">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" width="100">
 
 <p align="center">
