@@ -19,7 +19,7 @@
 <p align="center">
 <sub><sub>new⠀新book</sub></sub>
 <a href="https://naomii.atabook.org/">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" alt="Harmonia" width="100">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" width="100">
 </a>
 
 <p align="center">
@@ -29,14 +29,14 @@
   <p align="center">
 <sub><sub>experimenting</sub></sub>
 <a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" alt="Harmonia" width="100">
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/ba79f4fa2001136bc9779754ab12d14557ada33e/ezgif-856e657ba44f3128%20(1).gif" width="100">
 
 <p align="center">
 𓎢𓎠𓎟𓎠𓎡
 </p>
 
 <p align="center">
-<sub>I never expected to hear Pokémon say such things...</sub>
+<sub>i resonate with N so deeply, i yearn for him.</sub>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 <tr>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&pause=500&color=8DCFC5&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=As+a+result...+Pok%C3%A9mon+and+Trainers+who+care+about+one+another%2C;like+you+and+your+Pok%C3%A9mon%2C+will+be+separated.;And+that+does+break+my+heart+a+little." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&pause=500&color=8DCFC5&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=As+a+result...+Pok%C3%A9mon+and+Trainers+who+care+about+one+another%2C;like+you+and+your+Pok%C3%A9mon%2C+will+be+separated.;And+that+does+break+my+heart+a+little." alt="N" /></a>
 </p>
 
 <td width="50%" align="center" valign="top">
