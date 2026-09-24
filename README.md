@@ -62,7 +62,11 @@
 <tr>
 <td width="50%" align="center" valign="top">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N_Black_2_and_White_2.png">
-  <sub>kuroizuma / yorukenma</sub>
+  <sub>♡ ⠀special mentions ~</sub>
+  <sub><sub>chiiwara⠀nana⠀yume⠀vil</sub></sub>
+  
+  <sub>▪️⠀other friends ~</sub>
+  <sub><sub>mei⠀mikyii⠀kev⠀luc⠀aoki⠀infugue</sub></sub>
     </td>
   
 <td width="50%" valign="top">
