@@ -60,22 +60,3 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifb52xcl5zpgy3s4binhzzqfhy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=56bffc&bar_color_cover=false">
   </a>
 </p>
-  
-<table>
-<tr>
-<td width="100%" align="center" valign="top">
-<p align="center">
- <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/tumblr_00442dacd8d6dd0ccf63c018823bbd3f_1f8ffff5_540.gif">
-</p>
-</td>
-
-<table>
-<tr>
-<td width="100%" align="center" valign="top">
-<a href="https://github.com/naturalharmoniaa">
-  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/3442bbc869847fe850c7455435cc825349cbb30a/ezgif-8cf186015fa57932%20(1).gif" alt="Harmonia" width="100">
-</a>
-  
-  <sub>wait...</sub>
-</p>
-</td>
