@@ -113,7 +113,54 @@
     <summary>byi</summary>
 <table>
 <tr>
-<sub>my mood switches on and off at random times.</sub>
-  
-⠀⠀ ⠀ ⠀⠀ ⠀ <sub>make sure i don't have any dni- in my name.</sub>
-⠀⠀ ⠀ ⠀⠀ ⠀ <sub>if I don't respond immediately, it means I'm away or off-tab.</sub>
+<p align="center">
+<sub>my mood can switch on and off at random times.</sub>
+</p>
+<p align="center">
+<sub>make sure my name doesn't have dni- in them.</sub>
+</p>
+<p align="center">
+<sub>I'm always with my friends/party, so feel free to w2i.</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <details>
+    <summary>int</summary>
+<table>
+<tr>
+<p align="center">
+<sub>any people outside my dni criteria.</sub>
+</p>
+<p align="center">
+<sub>if you share the same interests as me, mostly seen in my skins.</sub>
+</p>
+<p align="center">
+<sub>if I'm alone, feel free to cuddle, interact through general chats or whisper, or just sit with me.</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <details>
+    <summary>dni</summary>
+<table>
+<tr>
+<p align="center">
+<sub>basic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
+</p>
+<p align="center">
+<sub>anything controversial topics like religion and politics.</sub>
+</p>
+<p align="center">
+<sub>if you tend to harass people over ships, opinions, or past conflicts.</sub>
+</p>
+
+</td>
+</tr>
+</table>
