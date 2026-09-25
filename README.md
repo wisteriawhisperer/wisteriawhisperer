@@ -96,6 +96,14 @@
 
 <div align="center">
   <details>
-    <summary>${\color{#8DCFC5}✩}$</summary>
+    <summary>${\color{#8DCFC5}۶ৎ}$</summary>
 <table>
 <tr>
+  
+<td width="50%" valign="top">
+<p align="center">
+      <img src="hi">
+
+</td>
+</tr>
+</table>
