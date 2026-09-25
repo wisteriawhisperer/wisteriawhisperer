@@ -127,7 +127,6 @@
 </tr>
 </table>
 
-
 <div align="center">
   <details>
     <summary>𝗶n𝑡</summary>
@@ -146,7 +145,6 @@
 </td>
 </tr>
 </table>
-
 
 <div align="center">
   <details>
