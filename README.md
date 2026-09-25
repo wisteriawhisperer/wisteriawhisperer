@@ -107,3 +107,13 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <details>
+    <summary>byi</summary>
+<table>
+<tr>
+<sub>my mood switches on and off at random times.</sub>
+  
+⠀⠀ ⠀ ⠀⠀ ⠀ <sub>make sure i don't have any dni- in my name.</sub>
+⠀⠀ ⠀ ⠀⠀ ⠀ <sub>if I don't respond immediately, it means I'm away or off-tab.</sub>
