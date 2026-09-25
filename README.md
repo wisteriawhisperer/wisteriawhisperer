@@ -110,17 +110,17 @@
 
 <div align="center">
   <details>
-    <summary>byi</summary>
+    <summary>𝗯y𝑖</summary>
 <table>
 <tr>
 <p align="center">
-<sub>my mood can switch on and off at random times.</sub>
+<sub>𝗺y mood can switch on and off at random times.</sub>
 </p>
 <p align="center">
-<sub>make sure my name doesn't have dni- in them.</sub>
+<sub>𝗺ake sure my name doesn't have dni- in them.</sub>
 </p>
 <p align="center">
-<sub>I'm always with my friends/party, so feel free to w2i.</sub>
+<sub>𝗶'm always with my friends/party, so feel free to w2i.</sub>
 </p>
 
 </td>
@@ -129,17 +129,17 @@
 
 <div align="center">
   <details>
-    <summary>int</summary>
+    <summary>𝗶n𝑡</summary>
 <table>
 <tr>
 <p align="center">
-<sub>any people outside my dni criteria.</sub>
+<sub>𝗮ny people outside my dni criteria.</sub>
 </p>
 <p align="center">
-<sub>if you share the same interests as me, mostly seen in my skins.</sub>
+<sub>𝗶f you share the same interests as me, mostly seen in my skins.</sub>
 </p>
 <p align="center">
-<sub>if I'm alone, feel free to cuddle, interact through general chats or whisper, or just sit with me.</sub>
+<sub>𝗶f I'm alone, feel free to cuddle, interact through general chats or whisper, or just sit with me.</sub>
 </p>
 
 </td>
@@ -148,17 +148,17 @@
 
 <div align="center">
   <details>
-    <summary>dni</summary>
+    <summary>𝗱n𝑖</summary>
 <table>
 <tr>
 <p align="center">
-<sub>basic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
+<sub>𝗯asic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
 </p>
 <p align="center">
-<sub>anything controversial topics like religion and politics.</sub>
+<sub>𝗮nything controversial topics like religion and politics.</sub>
 </p>
 <p align="center">
-<sub>if you tend to harass people over ships, opinions, or past conflicts.</sub>
+<sub>𝗶f you tend to harass people over ships, opinions, or past conflicts.</sub>
 </p>
 
 </td>
