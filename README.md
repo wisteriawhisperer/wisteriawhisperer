@@ -96,7 +96,7 @@
 
 <div align="center">
   <details>
-    <summary>${\color{#8DCFC5}۶ৎ}$</summary>
+    <summary>۶ৎ</summary>
 <table>
 <tr>
   
@@ -110,7 +110,7 @@
 
 <p align="center">
   <details>
-        <summary>𝗯y𝑖</summary>
+        <summary>${\color{#8DCFC5}𝗯y𝑖}$</summary>
         <p align="center">
 <sub>𝗺y mood can switch on and off at random times.</sub>
 </p>
@@ -124,7 +124,7 @@
 
 <p align="center">
   <details>
-        <summary>𝗶n𝑡</summary>
+        <summary>${\color{#8DCFC5}𝗶n𝑡}$</summary>
         <p align="center">
 <p align="center">
 <sub>𝗮ny people outside my dni criteria.</sub>
@@ -139,7 +139,7 @@
 
 <p align="center">
   <details>
-        <summary>𝗱n𝑖</summary>
+        <summary>${\color{#8DCFC5}𝗱n𝑖}$</summary>
         <p align="center">
 <p align="center">
 <sub>𝗯asic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
