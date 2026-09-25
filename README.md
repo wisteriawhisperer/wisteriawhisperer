@@ -108,12 +108,10 @@
 </tr>
 </table>
 
-<div align="center">
-  <details>
-    <summary>𝗯y𝑖</summary>
-<table>
-<tr>
 <p align="center">
+  <details>
+        <summary>𝗯y𝑖</summary>
+        <p align="center">
 <sub>𝗺y mood can switch on and off at random times.</sub>
 </p>
 <p align="center">
@@ -122,16 +120,12 @@
 <p align="center">
 <sub>𝗶'm always with my friends/party, so feel free to w2i.</sub>
 </p>
+      </details>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
+<p align="center">
   <details>
-    <summary>𝗶n𝑡</summary>
-<table>
-<tr>
+        <summary>𝗶n𝑡</summary>
+        <p align="center">
 <p align="center">
 <sub>𝗮ny people outside my dni criteria.</sub>
 </p>
@@ -141,16 +135,12 @@
 <p align="center">
 <sub>𝗶f I'm alone, feel free to cuddle, interact through general chats or whisper, or just sit with me.</sub>
 </p>
+      </details>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
+<p align="center">
   <details>
-    <summary>𝗱n𝑖</summary>
-<table>
-<tr>
+        <summary>𝗱n𝑖</summary>
+        <p align="center">
 <p align="center">
 <sub>𝗯asic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
 </p>
@@ -160,7 +150,4 @@
 <p align="center">
 <sub>𝗶f you tend to harass people over ships, opinions, or past conflicts.</sub>
 </p>
-
-</td>
-</tr>
-</table>
+      </details>
