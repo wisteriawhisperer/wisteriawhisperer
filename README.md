@@ -102,7 +102,8 @@
   
 <td width="50%" valign="top">
 <p align="center">
-      <sub>carrd, strawpage, rentry wip</sub>
+  <sub>carrd, strawpage, rentry wip</sub>
+  <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/7c81af52ff28c45f6673e70cb935e8111517de8c/wKIe8Ae.gif">
 
 </td>
 </tr>
