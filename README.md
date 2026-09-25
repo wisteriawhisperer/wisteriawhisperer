@@ -77,7 +77,7 @@
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
   <sub><sub>𝗺el 𝗺ei 𝗺ikyii 𝗶rene 𝗸ev 𝗹uc 𝗮oki 𝗸yu 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝘀tariyuu</sub></sub>
   
-  ${\color{#A5CD81}✩}$
+  ${\color{#8DCFC5}✩}$
   
 <td width="50%" valign="top">
 <p align="center">
