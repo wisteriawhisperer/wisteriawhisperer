@@ -102,7 +102,7 @@
   
 <td width="50%" valign="top">
 <p align="center">
-      <img src="hi">
+      <sub>${\color{#8DCFC5}carrd,⠀strawpage,⠀rentry⠀wip}</sub>
 
 </td>
 </tr>
