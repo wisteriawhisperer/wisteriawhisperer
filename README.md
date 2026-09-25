@@ -77,12 +77,12 @@
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
   <sub><sub>𝗺el 𝗺ei 𝗺ikyii 𝗶rene 𝗸ev 𝗹uc 𝗮oki 𝗸yu 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝘀tariyuu</sub></sub>
   
-  ${\color{#8DCFC5}✩}$
+
   
 <td width="50%" valign="top">
 <p align="center">
       <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/716b830e0a1978227572fe34e5e0b5f6b67e98b5/N.png">
-  <sub>𝗽ony town's 𝗻atural harmonia gropius ⸝ ⠀𝗻ope your too late i already died by 𝘄𝗶fi𝘀kele͟t͟o͟n͟</sub>
+  <sub>⠀𝗽ony town's 𝗻atural harmonia gropius ⸝ ⠀𝗻ope your too late i already died by 𝘄𝗶fi𝘀kele͟t͟o͟n͟</sub>
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
   <sub><a href="https://github.com/music-town">music town</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
@@ -93,3 +93,9 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <details>
+    <summary>${\color{#8DCFC5}✩}$</summary>
+<table>
+<tr>
