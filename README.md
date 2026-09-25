@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<sub>𝗶 r𝒆𝘀onate with 𝗡 𝒔o 𝙙eeply, 𝒆𝘃en 𝘁𝒓auma and 𝗰o𝒓e valu𝒆s.</sub>
+<sub>𝗶 re𝘀onate with 𝗡 𝒔o 𝙙eeply, 𝒆𝘃en 𝘁𝒓auma and 𝗰o𝒓e 𝘃alu𝒆s.</sub>
 </p>
 
 <p align="center">
