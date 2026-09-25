@@ -21,7 +21,7 @@
 
 <td width="50%" valign="top">
 <p align="center">
-<sub><sub>新book</sub></sub>
+<sub><sub>新𝗯ook</sub></sub>
 <a href="https://naomii.atabook.org/">
   <img src="https://github.com/wisteriawhisperer/wisteriawhisperer/blob/576c3823f34db8a168bab1e0685776c6c12c7d23/ezgif-2e8fbb494d45a10b%20(1).gif" width="100">
 </a>
